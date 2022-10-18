@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm Nikita and I'm a front-end developer 👨
 
-I like:
+I'm fond of:
 - ⚽ football
 - ⛰️ mountains
 - 🎹 music
